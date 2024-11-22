@@ -9,6 +9,8 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
         <h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
         <h5 style="color: blue; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h5>
+        <h5 style="color: black; font-size: 40px;" align="center">we are using nexus with jenkins</h5>
+
 
 	
 	
