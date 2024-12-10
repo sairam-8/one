@@ -10,7 +10,7 @@
         <h5 style="color: blue; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h5>
         <h5 style="color: black; font-size: 40px;" align="center">we are using nexus with jenkins</h5>
         <h5 style="color: green; font-size: 40px;" align="center">Deploying the java application on tomcat</h5>
-
+        <h6 style="color: yellow; font-size: 40px;" align="center">Deploying the java application on tomcat</h6>
 
 	
 	
