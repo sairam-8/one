@@ -12,6 +12,7 @@
         <h5 style="color: green; font-size: 40px;" align="center">Deploying the java application on tomcat</h5>
         <h6 style="color: yellow; font-size: 40px;" align="center">Deploying the java application on tomcat</h6>
         <h2> I scheduled poll scm</h2>
+        <h6 style="color: green; font-size: 40px;" align="center">Deploying the java application on tomcat</h6>
 
 	
 	
