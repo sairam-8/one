@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<html>
 <head>
 <title>my html code</title>
-</head>
+</head/>
 <body>
 	<h1 style="color: violet; font-size: 20px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 style="color: red; font-size: 20px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
