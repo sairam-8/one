@@ -12,6 +12,6 @@
         <h5 style="color: black; font-size: 20px;" align="center">we are using nexus with jenkins</h5>
         <h5 style="color: green; font-size: 20px;" align="center">Deploying the java application on tomcat</h5>
         <h6 style="color: yellow; font-size: 20px;" align="center">Deploying the java application on tomcat</h6>	
-	<h6>Mahanthkumar</h6>
+	
 </body>
 </html>
