@@ -15,6 +15,7 @@
         <h6 style="color: red; font-size: 20px;" align="center">Deployed by MahanthKumar</h6>
 <h6 style="color: red; font-size: 20px;" align="center">Deployed by MahanthRavuri</h6>
 <h6 style="color: red; font-size: 20px;" align="center">Deployed by Mahan</h6>
+<h6 style="color: red; font-size: 20px;" align="center">Monday</h6>
 	
 </body>
 </html>
